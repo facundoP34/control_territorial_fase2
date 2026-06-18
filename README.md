@@ -8,10 +8,10 @@ Importante compañía multinacional apuesta a mejorar su capilaridad en la ciuda
 Problema de subcobertura, en esta segunda fase nos proponemos a caracterizar a los PDV no clientes extrayendo atributos de "details" de la API de Google Maps, a partir de lo cual generamos nuevos indicadores.
 
 # 🎯 Business Questions
-*¿Cuáles son los PDV no clientes?
-*¿Cuán consolidados están los potenciales clientes?
-*¿Cuál es el potencial de los potenciales clientes localizados en la fase anterior?
-*¿Cómo priorizamos a los potenciales clientes para ampliar la base de clientes?
+* ¿Cuáles son los PDV no clientes?
+* ¿Cuán consolidados están los potenciales clientes?
+* ¿Cuál es el potencial de los potenciales clientes localizados en la fase anterior?
+* ¿Cómo priorizamos a los potenciales clientes para ampliar la base de clientes?
 # 🧰 Tech Stack
 Lenguajes: Python (librerías: pandas, requests)
 Análisis Geoespacial: QGIS
