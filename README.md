@@ -25,4 +25,4 @@ Transformación y Desduplicación: con Python (Pandas), el sistema procesa las r
 El resultado final es una matriz de datos estandarizada y georreferenciada, lista para ser integrada en el sistemas de información geográfica (QGIS).
 mapa
 # ✅ Conclusión
-De los potenciales clientes claves para ampliar la cuota de mercado en el centro de Córdoba, 7 tienen Alta consolidación, 128 Media consolidación (por mucha reseña y poca calificación o al revés) y 33 son de Baja consolidación.
+De los potenciales clientes claves para ampliar la cuota de mercado en el centro de Córdoba: 7 tienen Alta consolidación, 128 Media consolidación (por mucha reseña y poca calificación o al revés) y 33 son de Baja consolidación. Este indicador define la prioridad para anexar nuevos clientes.
