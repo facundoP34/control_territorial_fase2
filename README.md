@@ -1,4 +1,4 @@
-🌎 Control Territorial / Barrido Comercial / Fase 2
+#🌎 Control Territorial / Barrido Comercial / Fase 2
 Proyecto para empresa de consumo masivo
 
 📌 Contexto del Proyecto
